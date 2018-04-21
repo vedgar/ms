@@ -1,15 +1,12 @@
 # Matematički softver
 
-## Vrijeme kolokvija
+## 1. kolokvij
 
-Nažalost, praktikumi su nam zauzeti u 15h jer se kolokvij iz RP2 za profesorski smjer proteže kroz A2 i A3 razred.
-Moj prijedlog je da kolokvij imamo u "A4" razredu, isti dan (23. travnja) od 17:30 do 19 sati.
-Ako nekom to ne odgovara, neka pošalje mail što prije.
+Prvi kolokvij bit će u ponedjeljak 23. travnja u 17:30h. Piše se u praktikumima Pr1 i Pr2, **smijete** pisati na svojim računalima (laptopima).
 
 ## 1. zadaća
 
-Objavljena je [prva zadaća](https://github.com/vedgar/ms/blob/master/1.%20zada%C4%87a.md)!
-Rok predaje je 15. travnja 2018.
+Rezultati 1. zadaće bit će objavljeni sutra (nedjelja).
 
 ## Postavke
 
