@@ -1,5 +1,10 @@
 # Matematički softver
 
+## Rezultati 1. zadaće
+
+... su [objavljeni](https://docs.google.com/spreadsheets/d/e/2PACX-1vToOJUyLHuXkZkcAeBZNCl7WIQH8STNx5vqELr542iFmKzF1iLBdUn9IrtU9_CTIvdBB8dRvbxkiX9s/pubhtml?gid=2126467243&single=true). 
+U trećem stupcu je raspored za kolokvij.
+
 ## 1. kolokvij
 
 Prvi kolokvij bit će u ponedjeljak 23. travnja u 17:30h. 
@@ -10,10 +15,6 @@ Kolokvij je _open book_ - smijete koristiti internet, ali samo materijale nastal
 ali nije dozvoljeno tamo postavljati pitanja nakon što ste vidjeli zadatke).
 
 Smijete koristiti i (najbolje vlastite!) bilješke (papiri, USB,...), ali ih **ne smijete** međusobno razmjenjivati.
-
-## 1. zadaća
-
-Rezultati 1. zadaće bit će objavljeni sutra (nedjelja).
 
 ## Postavke
 
