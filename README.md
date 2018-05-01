@@ -1,20 +1,12 @@
 # Matematički softver
 
-## Rezultati 1. zadaće
+## Rezultati 1. kolokvija
 
-... su [objavljeni](https://docs.google.com/spreadsheets/d/e/2PACX-1vToOJUyLHuXkZkcAeBZNCl7WIQH8STNx5vqELr542iFmKzF1iLBdUn9IrtU9_CTIvdBB8dRvbxkiX9s/pubhtml?gid=2126467243&single=true). 
-U trećem stupcu je raspored za kolokvij.
+... su [objavljeni](https://docs.google.com/spreadsheets/d/e/2PACX-1vToOJUyLHuXkZkcAeBZNCl7WIQH8STNx5vqELr542iFmKzF1iLBdUn9IrtU9_CTIvdBB8dRvbxkiX9s/pubhtml?gid=938833864&single=true). Uvidi će biti u petak, 4. svibnja u 14h u Praktikumu 1.
 
-## 1. kolokvij
+## Za drugi dio nastave (LaTeX)
 
-Prvi kolokvij bit će u ponedjeljak 23. travnja u 17:30h. 
-Piše se u praktikumima Pr1 i Pr2, **smijete** pisati na svojim računalima (laptopima). 
-Raspored po praktikumima bit će objavljen zajedno s rezultatima 1. zadaće. 
-Kolokvij je _open book_ - smijete koristiti internet, ali samo materijale nastale prije početka kolokvija
-(recimo, dozvoljeno je na StackOverflowu pronaći informaciju kako se rješava neki zadatak,
-ali nije dozvoljeno tamo postavljati pitanja nakon što ste vidjeli zadatke).
-
-Smijete koristiti i (najbolje vlastite!) bilješke (papiri, USB,...), ali ih **ne smijete** međusobno razmjenjivati.
+Do idućeg predavanja, molim vas da svi otvorite account na [Overleafu](https://www.overleaf.com/signup).
 
 ## Postavke
 
