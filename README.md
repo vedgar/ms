@@ -8,9 +8,12 @@
 
 Do idućeg predavanja, molim vas da svi otvorite account na [Overleafu](https://www.overleaf.com/signup).
 
+Prvi tjedan nakon kolokvija: https://www.overleaf.com/read/dckwcnxtfknb
+
 ## Postavke
 
 Da biste pokrenuli Jupyter Notebook na računalima u Pr1, u terminal upišite
 
     export PATH=/opt/anaconda3/bin:$PATH
     anaconda-navigator
+https://www.overleaf.com/read/dckwcnxtfknb
