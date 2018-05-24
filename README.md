@@ -1,19 +1,11 @@
 # Matematički softver
 
-## Rezultati 1. kolokvija
+## Tijelovo
 
-... su [objavljeni](https://docs.google.com/spreadsheets/d/e/2PACX-1vToOJUyLHuXkZkcAeBZNCl7WIQH8STNx5vqELr542iFmKzF1iLBdUn9IrtU9_CTIvdBB8dRvbxkiX9s/pubhtml?gid=938833864&single=true). Uvidi će biti u petak, 4. svibnja u 14h u Praktikumu 1.
+Obavijest: idući četvrtak nema nastave! Pokušajte doći u utorak (isto vrijeme i mjesto, Pr1 od 9h do 12h), uzmite bilješke od nekog, pogledajte donji link, ili naučite TikZ iz dokumenta poput [ovog](http://cremeronline.com/LaTeX/minimaltikz.pdf).
 
-## Za drugi dio nastave (LaTeX)
 
-Do idućeg predavanja, molim vas da svi otvorite account na [Overleafu](https://www.overleaf.com/signup).
+## LaTeX
 
-Prvi tjedan nakon kolokvija: https://www.overleaf.com/read/dckwcnxtfknb
-
-## Postavke
-
-Da biste pokrenuli Jupyter Notebook na računalima u Pr1, u terminal upišite
-
-    export PATH=/opt/anaconda3/bin:$PATH
-    anaconda-navigator
-https://www.overleaf.com/read/dckwcnxtfknb
+Dokument u kojem vježbamo: https://www.overleaf.com/read/dckwcnxtfknb
+(klonirajte ga sebi u account ako ga hoćete editirati)
