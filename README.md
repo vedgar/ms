@@ -1,9 +1,5 @@
 # Matematički softver
 
-## Tijelovo
-
-Obavijest: idući četvrtak nema nastave! Pokušajte doći u utorak (isto vrijeme i mjesto, Pr1 od 9h do 12h), uzmite bilješke od nekog, pogledajte donji link, ili naučite TikZ iz dokumenta poput [ovog](http://cremeronline.com/LaTeX/minimaltikz.pdf).
-
 ## Druga zadaća
 
 Napišite _paper_ u LaTeXu od najmanje 4 stranice, koji:
@@ -25,3 +21,5 @@ Zadaća je obavezna. Zadaće koje ispunjavaju minimalne gornje uvjete dobivaju m
 
 Dokument u kojem vježbamo: https://www.overleaf.com/read/dckwcnxtfknb
 (klonirajte ga sebi u account ako ga hoćete editirati)
+
+Beamer prezentacije: https://www.overleaf.com/read/gdgczcqmzdhz, https://www.overleaf.com/read/zkkcrqwqzqnp
