@@ -1,5 +1,9 @@
 # Matematički softver
 
+## Drugi kolokvij
+
+Bit će u Pr1, Pr2 i Pr3, u **četvrtak, 21. lipnja u 17:30 sati**. Nažalost nije bilo moguće dobiti praktikume u ponedjeljak uopće. :-(
+
 ## Druga zadaća
 
 Napišite _paper_ u LaTeXu od najmanje 4 stranice, koji:
@@ -23,3 +27,4 @@ Dokument u kojem vježbamo: https://www.overleaf.com/read/dckwcnxtfknb
 (klonirajte ga sebi u account ako ga hoćete editirati)
 
 Beamer prezentacije: https://www.overleaf.com/read/gdgczcqmzdhz, https://www.overleaf.com/read/zkkcrqwqzqnp
+
