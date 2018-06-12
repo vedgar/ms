@@ -2,7 +2,7 @@
 
 ## Link za vježbu
 
-https://imgur.com/2asuvb5
+https://pangea.stanford.edu/computing/unix/formatting/latexexample.php
 
 ## Drugi kolokvij
 
