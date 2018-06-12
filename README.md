@@ -2,7 +2,13 @@
 
 ## Drugi kolokvij
 
-Bit će u Pr1, Pr2 i Pr3, u **četvrtak, 21. lipnja u 17:30 sati**. Nažalost nije bilo moguće dobiti praktikume u ponedjeljak uopće. :-(
+Mislio sam da ćemo popričati o terminu danas, ali nije vas baš puno došlo. :-/ Trenutno su u igri termini
+
+* srijeda, 27. lipnja u 17:30 (E4)
+* srijeda, 27. lipnja u 15:30 (E3)
+* četvrtak, 21. lipnja u 17:30 (C4)
+
+(tim redom preferencije). Ako imate nešto bitno protiv srijede (27. lipnja), molim vas da se javite mailom što prije. Ispričavam se zbog ove zbrke, ali nisam mislio da će biti toliki problem dobiti praktikume.
 
 ## Druga zadaća
 
