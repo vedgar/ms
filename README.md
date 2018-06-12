@@ -4,6 +4,8 @@
 
 https://pangea.stanford.edu/computing/unix/formatting/latexexample.php
 
+http://www.typoma.com/en/minionmath_examples.html
+
 ## Drugi kolokvij
 
 Mislio sam da ćemo popričati o terminu danas, ali nije vas baš puno došlo. :-/ Trenutno su u igri termini
