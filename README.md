@@ -8,11 +8,12 @@ https://imgur.com/2asuvb5
 
 Mislio sam da ćemo popričati o terminu danas, ali nije vas baš puno došlo. :-/ Trenutno su u igri termini
 
-* srijeda, 27. lipnja u 17:30 (E4)
-* srijeda, 27. lipnja u 15:30 (E3)
-* četvrtak, 21. lipnja u 17:30 (C4)
+* četvrtak, 28. lipnja u 17:30
+* srijeda, 27. lipnja u 17:30
+* srijeda, 27. lipnja u 15:30
+* četvrtak, 21. lipnja u 17:30
 
-(tim redom preferencije). Ako imate nešto bitno protiv srijede (27. lipnja), molim vas da se javite mailom što prije. Ispričavam se zbog ove zbrke, ali nisam mislio da će biti toliki problem dobiti praktikume.
+(tim redom preferencije). Ako imate nešto bitno protiv četvrtka (28. lipnja), molim vas da se javite mailom što prije. Ispričavam se zbog ove zbrke, ali nisam mislio da će biti toliki problem dobiti praktikume.
 
 ## Druga zadaća
 
