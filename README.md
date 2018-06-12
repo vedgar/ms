@@ -1,5 +1,9 @@
 # Matematički softver
 
+## Link za vježbu
+
+https://imgur.com/2asuvb5
+
 ## Drugi kolokvij
 
 Mislio sam da ćemo popričati o terminu danas, ali nije vas baš puno došlo. :-/ Trenutno su u igri termini
