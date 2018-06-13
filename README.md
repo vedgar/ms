@@ -8,7 +8,7 @@ http://www.typoma.com/en/minionmath_examples.html
 
 ## Drugi kolokvij
 
-8. pokušaj smišljanja termina: a da stvarno imamo 2 termina? Četvrtak 21. lipnja u 17:30 i četvrtak 28. lipnja u 17:30. U tom slučaju, trebali biste do petka odabrati termin i javiti mi mailom. Molim vas da to ne shvaćate kao popravni - svaki student može izaći samo na jedan termin! Ako vam odgovaraju oba termina, molim vas da odaberete raniji. Bit će malo lakši zadaci. ;-)
+Osmi pokušaj smišljanja termina: a da stvarno imamo 2 termina? Četvrtak 21. lipnja u 17:30 i četvrtak 28. lipnja u 17:30. U tom slučaju, trebali biste do petka odabrati termin i javiti mi mailom. Molim vas da to ne shvaćate kao popravni - svaki student može izaći samo na jedan termin! Ako vam odgovaraju oba termina, molim vas da odaberete raniji. Bit će malo lakši zadaci. ;-)
 
 Ako postoji netko kom ne odgovara ni jedno ni drugo, nek se javi što ranije. Nadam se da takvih neće biti. :-)
 
