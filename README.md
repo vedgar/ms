@@ -8,7 +8,7 @@ http://www.typoma.com/en/minionmath_examples.html
 
 ## Drugi kolokvij
 
-Nakon razmatranja valjda 6 različitih opcija, svaka od kojih ne odgovara bitnom dijelu studenta, imam ono što mi se čini mačem za Gordijski čvor zvan termin drugog kolokvija. Što kažete na *2. srpnja u 9h*? Ako postoji neki bitan razlog protiv,
+Nakon razmatranja valjda 6 različitih opcija, svaka od kojih ne odgovara bitnom dijelu studenta, imam ono što mi se čini mačem za Gordijski čvor zvan termin drugog kolokvija. Što kažete na **2. srpnja u 9h**? Ako postoji neki bitan razlog protiv,
 molim vas da se javite mailom što prije. (Samo da napomenem, to je jedini termin u 3. tjednu koji dolazi u obzir - popodne imam druge obaveze, a od utorka počinje Kongres.) Ispričavam se zbog ove zbrke, ali nisam mislio da će biti toliki problem dobiti praktikume.
 
 ## Druga zadaća
