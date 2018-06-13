@@ -8,14 +8,8 @@ http://www.typoma.com/en/minionmath_examples.html
 
 ## Drugi kolokvij
 
-Mislio sam da ćemo popričati o terminu danas, ali nije vas baš puno došlo. :-/ Trenutno su u igri termini
-
-* četvrtak, 28. lipnja u 17:30
-* srijeda, 27. lipnja u 17:30
-* srijeda, 27. lipnja u 15:30
-* četvrtak, 21. lipnja u 17:30
-
-(tim redom preferencije). Ako imate nešto bitno protiv četvrtka (28. lipnja), molim vas da se javite mailom što prije. Ispričavam se zbog ove zbrke, ali nisam mislio da će biti toliki problem dobiti praktikume.
+Nakon razmatranja valjda 6 različitih opcija, svaka od kojih ne odgovara bitnom dijelu studenta, imam ono što mi se čini mačem za Gordijski čvor zvan termin drugog kolokvija. Što kažete na *2. srpnja u 9h*? Ako postoji neki bitan razlog protiv,
+molim vas da se javite mailom što prije. (Samo da napomenem, to je jedini termin u 3. tjednu koji dolazi u obzir - popodne imam druge obaveze, a od utorka počinje Kongres.) Ispričavam se zbog ove zbrke, ali nisam mislio da će biti toliki problem dobiti praktikume.
 
 ## Druga zadaća
 
