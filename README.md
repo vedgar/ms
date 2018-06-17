@@ -1,5 +1,9 @@
 # Matematički softver
 
+## Rezultati 2. zadaće
+
+https://goo.gl/eUJ3SS
+
 ## Link za vježbu
 
 https://pangea.stanford.edu/computing/unix/formatting/latexexample.php
