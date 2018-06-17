@@ -2,7 +2,7 @@
 
 ## Rezultati 2. zadaće
 
-https://goo.gl/eUJ3SS
+https://goo.gl/eUJ3SS Uvidi su u utorak 19. lipnja u 12h.
 
 ## Link za vježbu
 
