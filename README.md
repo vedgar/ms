@@ -4,6 +4,8 @@
 
 https://goo.gl/eUJ3SS Uvidi su u utorak 19. lipnja u 12h.
 
+Također su u tablici termini 2. kolokvija koje ste odabrali. Javite mi što prije ako je nekom krivo upisan termin.
+
 ## Link za vježbu
 
 https://pangea.stanford.edu/computing/unix/formatting/latexexample.php
