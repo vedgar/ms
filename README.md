@@ -8,6 +8,8 @@ Kolokvij ima 5 zadataka, svaki vrijedi 8 bodova. Na početku kolokvija (u 17:30)
 
 Ako radite u overleafu v1, prije slanja maila **obavezno labelirajte** predanu verziju dokumenta (gornji menu, History & revisions, upišite "predano" i kliknite Add label). Nakon toga idite na Share, i mailom pošaljite "Read & edit" link.
 
+Ako ne želite rješavati peti zadatak (čija tema je `beamer`), tada rješenje čevrtog zadatka (čija tema je `tikz`) možete staviti u istu datoteku kao i rješenja prva tri zadatka (na zasebnu stranicu). U tom slučaju predajete samo jednu datoteku.
+
 ## Rezultati 2. zadaće
 
 https://goo.gl/eUJ3SS
