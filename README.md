@@ -2,6 +2,10 @@
 
 ## 2. kolokvij
 
+Zadaci:
+* https://drive.google.com/file/d/1rknnvEMpU4QBhtruu-jyKalb_hrZ_f_M/view?usp=sharing
+* https://drive.google.com/file/d/1HKTi7eDFt4-7VnnpvkUQl7gc4Kv0N0uZ/view?usp=sharing
+
 Raspored: https://goo.gl/Dy2RQ3
 
 Kolokvij ima 5 zadataka, svaki vrijedi 8 bodova. Na početku kolokvija (u 17:30) ovdje će se nalaziti linkovi na 2 PDF dokumenta. Prva tri zadatka su u jednom dokumentu (KOMAscript "paper" od jedne stranice), četvrti i peti su u drugom (beamer prezentacija od 3 framea, tema je jedna iz "beamer theme matrix"). Trebate što vjernije i sa što manje "ručnog namještanja" reproducirati te dokumente u LaTeXu. Source oba dokumenta, ili linkove na overleaf dokumente, poslat ćete mailom na `veky@math.hr`, sa Subjectom `MS K2`.
