@@ -1,10 +1,10 @@
 # Matematički softver
 
-## 2. kolokvij
+## Novi web site
 
-Zadaci:
-* https://drive.google.com/file/d/1rknnvEMpU4QBhtruu-jyKalb_hrZ_f_M/view?usp=sharing
-* https://drive.google.com/file/d/1HKTi7eDFt4-7VnnpvkUQl7gc4Kv0N0uZ/view?usp=sharing
+Na https://web.math.pmf.unizg.hr/~veky/ms/ se nalazi novi site kolegija Matematički softver. Molim vas da ubuduće tamo pratite obavijesti.
+
+## 2. kolokvij
 
 Raspored: https://goo.gl/Dy2RQ3
 
@@ -14,11 +14,7 @@ Ako radite u overleafu v1, prije slanja maila **obavezno labelirajte** predanu v
 
 Ako ne želite rješavati peti zadatak (čija tema je `beamer`), tada rješenje čevrtog zadatka (čija tema je `tikz`) možete staviti u istu datoteku kao i rješenja prva tri zadatka (na zasebnu stranicu). U tom slučaju predajete samo jednu datoteku.
 
-Savjetujem da imate već pripremljeni _template_ sa svim paketima za koje mislite da bi vam mogli trebati. "Službeno rješenje" ima oko 2700 znakova, od čega je bar 10% nešto što možete pripremiti unaprijed.
-
-## Rezultati 2. zadaće
-
-https://goo.gl/eUJ3SS
+Savjetujem da imate već pripremljeni _template_ sa svim paketima za koje mislite da bi vam mogli trebati. "Službeno rješenje" ima oko 3000 znakova, od čega je bar 10% nešto što možete pripremiti unaprijed.
 
 ## Link za vježbu
 
